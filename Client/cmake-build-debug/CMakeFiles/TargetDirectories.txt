@@ -1,0 +1,3 @@
+D:/Twitter/Client/cmake-build-debug/CMakeFiles/Client.dir
+D:/Twitter/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Twitter/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
